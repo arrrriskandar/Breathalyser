@@ -40,11 +40,7 @@ email address, password, name, date of birth and gender.
 
 ### Forgot Password
 
-<p>
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/6.jpg" alt="Screen 6" height="500">
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/7.jpg" alt="Screen 7" height="500">
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/8.jpg" alt="Screen 8" height="500">
-</p>
+<img src="./flutter_breathalyzer_finaldemo/Screenshots/6.png" alt="Screen 6" height="500">
 
 For users who have forgotten their password, they can click on the ‘Reset’ button, and they will
 be directed to the reset password page where they can key in their email address (Figure 6.5a).
@@ -58,7 +54,12 @@ time.
 ### Home Screen
 
 <p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/7.jpg" alt="Screen 7" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/8.jpg" alt="Screen 8" height="500">
   <img src="./flutter_breathalyzer_finaldemo/Screenshots/9.jpg" alt="Screen 9" height="500">
+</p>
+
+<p>
   <img src="./flutter_breathalyzer_finaldemo/Screenshots/10.jpg" alt="Screen 10" height="500">
   <img src="./flutter_breathalyzer_finaldemo/Screenshots/11.jpg" alt="Screen 11" height="500">
 </p>
@@ -66,47 +67,38 @@ time.
 <p>
   <img src="./flutter_breathalyzer_finaldemo/Screenshots/12.jpg" alt="Screen 12" height="500">
   <img src="./flutter_breathalyzer_finaldemo/Screenshots/13.jpg" alt="Screen 13" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/14.jpg" alt="Screen 14" height="500">
 </p>
 
-<p>
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/14.jpg" alt="Screen 14" height="500">
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/15.jpg" alt="Screen 15" height="500">
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/16.jpg" alt="Screen 16" height="500">
-</p>
+<img src="./flutter_breathalyzer_finaldemo/Screenshots/21.png" alt="Screen 21" height="500">
 
 ---
 
-### Profile Screen 
+### Profile Screen
 
 <p>
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/15.jpg" alt="Screen 15" height="500">
+  <img src="./flutter_breathalyzer_finaldemo/Screenshots/16.jpg" alt="Screen 16" height="500">
   <img src="./flutter_breathalyzer_finaldemo/Screenshots/17.jpg" alt="Screen 17" height="500">
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/18.jpg" alt="Screen 18" height="500">
-  <img src="./flutter_breathalyzer_finaldemo/Screenshots/19.jpg" alt="Screen 19" height="500">
 </p>
 
 ---
 
 ### Records Screen
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/20.jpg" alt="Screen 20" height="500">
+<img src="./flutter_breathalyzer_finaldemo/Screenshots/18.jpg" alt="Screen 18" height="500">
 
 ---
 
 ### Learn More Screen
 
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/20.jpg" alt="Screen 20" height="500">
+<img src="./flutter_breathalyzer_finaldemo/Screenshots/19.jpg" alt="Screen 19" height="500">
 
 ---
 
 ### Donate Us Screen
 
 <img src="./flutter_breathalyzer_finaldemo/Screenshots/20.jpg" alt="Screen 20" height="500">
-
----
-
-### Twilio
-
-<img src="./flutter_breathalyzer_finaldemo/Screenshots/21.jpg" alt="Screen 21" height="500">
 
 ---
 
